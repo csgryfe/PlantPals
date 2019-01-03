@@ -4,6 +4,7 @@ SYSC 3010 Plant Pals project repository
 Plant Pals - Plant Monitoring and Watering made easy
 	
 Contributors:
+--------------
 
 Caleb Gryfe            
 
