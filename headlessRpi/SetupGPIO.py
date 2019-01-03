@@ -1,8 +1,8 @@
 '''
 Created on Nov 26, 2017
 
-@author: Muhammad Tarequzzaman |100954008|
-@Co-Author Caleb Gryfe |101009798|
+@author: Muhammad Tarequzzaman 
+@Co-Author Caleb Gryfe 
 '''
 import RPi.GPIO as GPIO
 from pip.status_codes import SUCCESS
