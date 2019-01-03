@@ -1,7 +1,7 @@
 '''
 Created on Nov 9, 2017
 
-@author: Muhammad Tarequzzaman|| 100954008
+@author: Muhammad Tarequzzaman
 '''
 import timeit
 from time import sleep
