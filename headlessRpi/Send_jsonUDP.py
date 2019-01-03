@@ -2,7 +2,13 @@ import socket
 import Read_serial as S
 import requests as R
 
+'''
+Created on Nov 25, 2017
 
+@author: Muhammad Tarequzzaman
+@co-author: Caleb Gryfe 
+
+'''
     
 #===============================================================================
 # # this class have the codes for sending data over UDP for specific address and port. 
