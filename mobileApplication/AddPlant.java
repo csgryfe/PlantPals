@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 /*
-Steven Nash | 100973959
+Steven Nash
 AddPlant:
     Activity that allows the user to add a plant to their plant list and send it to the server
  */
