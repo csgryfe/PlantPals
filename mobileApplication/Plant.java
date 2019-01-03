@@ -2,7 +2,7 @@ package com.example.steve.plantpals;
 
 /**
  * Created by steve on 11/6/2017.
- * Steven Nash | 100973959
+ * Steven Nash
  * Plant:
  *      Object type 'Plant' that includes a value for a name and an ideal moisture.
  */
