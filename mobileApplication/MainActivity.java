@@ -9,7 +9,7 @@ import android.widget.CheckBox;
 import android.widget.TextView;
 
 /*
-Steven Nash | 100973959
+Steven Nash 
 MainActivity:
     Activity that welcomes the user on launch
  */
