@@ -1,7 +1,7 @@
 '''
 Created on Nov 18, 2017
 
-@author: Muhammad Tarequzzaman || 100954008
+@author: Muhammad Tarequzzaman
 '''
 import unittest
 
