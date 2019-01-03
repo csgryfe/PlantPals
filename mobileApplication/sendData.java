@@ -43,7 +43,7 @@ import java.util.List;
 
 /**
  * Created by steve on 11/20/2017
- * Steven Nash | 100973959
+ * Steven Nash 
  * sendData:
  *      Send the plant at index cnt from the user's plant list to the HTML server
  */
