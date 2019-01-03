@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 /*
-Steven Nash | 100973959
+Steven Nash 
 testMoistureLow:
     Send a test plant at position 1 that needs to be watered to test the system's response
  */
