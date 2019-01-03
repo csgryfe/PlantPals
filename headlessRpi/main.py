@@ -1,8 +1,8 @@
 '''
 Created on Nov 25, 2017
 
-@author: Muhammad Tarequzzaman |100954008| 
-@Co-Author Caleb Gryfe |101009798|
+@author: Muhammad Tarequzzaman 
+@Co-Author Caleb Gryfe 
 '''
 
 import StepperMotor as st
