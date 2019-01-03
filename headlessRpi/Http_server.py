@@ -1,8 +1,8 @@
 '''
 Created on Dec 2, 2017
 
-@author: Muhammad Tarequzzaman | 100954008
-@co-author: Caleb Gryfe |101009798|
+@author: Muhammad Tarequzzaman 
+@co-author: Caleb Gryfe
 '''
 import requests as R
 import Read_serial as serial 
