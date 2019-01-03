@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 /*
-Steven Nash | 100973959
+Steven Nash 
 testMoistureHigh:
     Send a plant to the server at position 1 that tests the server's response when the plant
     does not need to be watered
