@@ -1,7 +1,7 @@
 '''
 Created on Nov 24, 2017
 
-@author: Muhammad Tarequzzaman |100954008| 
+@author: Muhammad Tarequzzaman 
 '''
 import RPi.GPIO as GPIO
 import SetupGPIO as s
