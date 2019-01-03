@@ -1,7 +1,8 @@
 '''
 Created on Nov 25, 2017
 
-@author: Muhammad Tarequzzaman & Caleb Gryfe 
+@author: Muhammad Tarequzzaman
+@co-author: Caleb Gryfe 
 
 '''
 import serial
