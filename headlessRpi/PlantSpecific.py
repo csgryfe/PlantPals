@@ -1,7 +1,7 @@
 '''
 Created on Dec 2, 2017
 
-@author: Caleb Gryfe |101009798| 
+@author: Caleb Gryfe 
 '''
 
 import RPi.GPIO as GPIO
