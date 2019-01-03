@@ -1,8 +1,10 @@
 '''
 Created on Dec 3, 2017
 
-@author: Muhammad Tarequzzaman || 100954008 && Caleb Gryfe || 101009798
+@author: Muhammad Tarequzzaman
+@Co-autor: Caleb Gryfe 
 '''
+
 import PlantSpecific as PS
 import Http_server as hTTP
 import Read_serial as sErial
