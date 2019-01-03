@@ -2,8 +2,8 @@
 Completed on: 07/12/17
 SYSC 3010 Plant Pals project repository
 
-								Plant Pals 
-						Plant Monitoring and Watering made easy
+							Plant Pals 
+					Plant Monitoring and Watering made easy
 	
 Contributors:
 --------------
