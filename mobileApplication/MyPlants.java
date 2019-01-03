@@ -11,7 +11,7 @@ import android.widget.TextView;
 import org.w3c.dom.Text;
 
 /*
-Steven Nash | 100973959
+Steven Nash
 MyPlants:
     Activity that allows the user to view and edit their plant list.
  */
