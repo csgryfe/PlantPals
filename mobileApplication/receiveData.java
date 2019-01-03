@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 /**
  * Created by steve on 11/20/2017.
- * Steven Nash | 100973959
+ * Steven Nash 
  * receiveData:
  *      Receive the user's plant list from the network
  */
