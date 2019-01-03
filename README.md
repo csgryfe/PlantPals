@@ -1,7 +1,9 @@
 # SYSC3010PlantPals
+Completed on: 07/12/17
 SYSC 3010 Plant Pals project repository
 
-Plant Pals - Plant Monitoring and Watering made easy
+								Plant Pals 
+						Plant Monitoring and Watering made easy
 	
 Contributors:
 --------------
@@ -14,7 +16,6 @@ Emma Maddock
 
 Steven Nash           
 
-12/07/2017
 
 ------------------------------------------------------------------------------------------------------------------------------
 To operate this system in a similar fashion as we have done, you will require 2 Raspberry pi's, an Arduino, and an internet connection.
