@@ -1,7 +1,9 @@
 '''
-Created on Nov 24, 2017
+Created on Nov 25, 2017
 
-@author: Muhammad Tarequzzaman |100954008| & Caleb Gryfe |101009798|
+@author: Muhammad Tarequzzaman
+@co-author: Caleb Gryfe 
+
 '''
 
 import RPi.GPIO as GPIO
