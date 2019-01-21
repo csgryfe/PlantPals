@@ -10,7 +10,7 @@ Contributors:
 
 Caleb Gryfe            
 
-Tareq Muhammad         
+Muhammad Tarequzzaman         
 
 Emma Maddock           
 
